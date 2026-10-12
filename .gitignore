@@ -1,1 +1,9 @@
-/target/
+# Maven generated files
+target/
+
+# Compiled Java files
+*.class
+
+# Eclipse workspace metadata
+.metadata/
+>>>>>>> master
