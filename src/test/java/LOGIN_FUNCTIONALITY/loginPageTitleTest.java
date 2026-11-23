@@ -16,7 +16,6 @@ public class loginPageTitleTest {
 
         // Verify page title
         if (actualTitle.equals(expectedTitle)) {
-
             System.out.println("PASSED");
             System.out.println("Login page title is correct");
             System.out.println("Actual Title: " + actualTitle);
